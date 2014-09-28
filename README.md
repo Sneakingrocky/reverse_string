@@ -5,8 +5,8 @@ This exercise was created to understand the work that Ruby's reverse method does
 
 <h2>What does Ruby's reverse method do?</h2>
 
-<p>reverse → new_ary
-Returns a new array containing self‘s elements in reverse order.</p>
+<p>reverse → new_ary</p>
+<p>Returns a new array containing self‘s elements in reverse order.</p>
 
 <h3>Example 1</h3>
 
@@ -21,7 +21,7 @@ Returns a new array containing self‘s elements in reverse order.</p>
 
 <h3>My blog post about it!</h3>
 
-[Creating a Reverse Method](sneakingrocky.tumblr.com/post/98365505215/creating-a-ruby-reverse-method-from-scratch)
+[Creating a Reverse Method](https://sneakingrocky.tumblr.com/post/98365505215/creating-a-ruby-reverse-method-from-scratch)
 
 
 
