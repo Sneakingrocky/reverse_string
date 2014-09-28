@@ -18,21 +18,6 @@ Returns a new array containing self‘s elements in reverse order.</p>
 
 <p>To create a reverse method that reverses the string "Maverick is the best</p>
 
-<h1>My code</h1>
-
-
-<code>
-string = "Maverick is the best"
-
-class StringReverser
-
-  def reverse_string(string)
-    reversed_string = ""
-    string.each_char { |char| reversed_string = char << reversed_string }
-    return reversed_string
-  end
-end
-</code>
 
 <h1>My blog post about it!</h1>
 
@@ -40,7 +25,7 @@ end
 
 <h1>It's always fun to reverse things!</h1>
 
-![alt tag](http://reversemygif.com/2014/02/12/escalator-slide-fail/)
+![alt tag](http://reversemygif.com/2014/02/12/escalator-slide-fail)
 
 
 
