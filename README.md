@@ -21,7 +21,7 @@ This exercise was created to understand the work that Ruby's reverse method does
 
 <h3>My blog post about it!</h3>
 
-[Creating a Reverse Method](https://sneakingrocky.tumblr.com/post/98365505215/creating-a-ruby-reverse-method-from-scratch)
+[Creating a Reverse Method](http://sneakingrocky.tumblr.com/post/98365505215/creating-a-ruby-reverse-method-from-scratch)
 
 
 
