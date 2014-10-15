@@ -1,5 +1,3 @@
-string = "Maverick is the best"
-
 class StringReverser
 
   def reverse_string(string)
